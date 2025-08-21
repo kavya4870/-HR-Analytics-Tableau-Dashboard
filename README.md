@@ -38,8 +38,8 @@ The dashboard helps HR teams take data-driven decisions to improve employee rete
 ---
 
 ## 📊 Dashboard Preview
-(<img width="1467" height="833" alt="image" src="https://github.com/user-attachments/assets/1aaec682-fe3a-47e3-8c39-564ed30a8ab2" />
-)
+(https://github.com/kavya4870/-HR-Analytics-Tableau-Dashboard/blob/main/HR%20Dashboard%20screenshot.png)
+
 
 ---
 
